@@ -29,13 +29,13 @@ Built as a **React + Vite project** to practice **state management, component de
 
 ## 🖥️ Screenshots
 - Gameplay  
-  ![Gameplay](./in-progress.PNG)
+  ![Gameplay](./in-progress.png)
 
 - Win screen  
-  ![Win Screen](./win.PNG)
+  ![Win Screen](./win.png)
 
 - Loss screen  
-  ![Loss Screen](./lose.PNG)
+  ![Loss Screen](./lose.png)
 
 ---
 
